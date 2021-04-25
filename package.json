@@ -1,5 +1,5 @@
 {
-  "name": "hexo-pagination",
+  "name": "hexo-pagination-tilden",
   "version": "1.0.0",
   "description": "Pagination utilities for Hexo generator plugins.",
   "main": "lib/pagination",
